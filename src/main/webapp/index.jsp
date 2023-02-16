@@ -5,7 +5,7 @@
     <title>My Awesome App</title>
 </head>
 <body>
-<h1><%= "Important Form" %>
+<h1><%= "Super Important Form" %>
 </h1>
 <br/>
 <form method="post" action="myServlet" autocomplete="off">
